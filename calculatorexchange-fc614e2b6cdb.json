@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "calculatorexchange",
+  "private_key_id": "fc614e2b6cdbbabb0fd71e384f000b9626abb916",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDx1odlenqMOnaa\nEVX2XeWQ8SLWk2RYUZvxXdnup3/q4UuZlXysru9sezayA3ycRd9o2e0o/fEGgw7r\nrfL8Rbd00omDg5Y4Fivk12Qn4LdUirbdMMHewHGaxCVolWtpbeIvLHSkjfyzC1Tn\niGLi1eoX/NT+/0uLLwJyvJGdDU8CVS0noaCFH+ChCdiBIXjFJm078gUHgDBK/MrR\nSFd2pDfY1/XDsev+AkgsxSfXnVs8MsdnTTrSmS6TaGp+lR3S+hga0mOtptW6dMIv\nWQ8TaTzMuzjSYFPlFE1c3O6bcFq6V4xi6anCNcnpv6vs/j8TdXx2GZM3kbzASRZL\nI/mnl0c1AgMBAAECggEAAr7UuqoxSfY/8m/P8gQO3x5druHtebMzegH+v17XbOsx\n2ISB7dPuk+SyMkMn3v5MEvymXJjFa7WBLdvDrml8M69QMFYGFozp4qcvU+SRMDyC\n5u/uw4CbyY4AfrdziLbeonp2uIeEHuQ6CobZ2IllJvCP2nU7flECThsl7AqCoxwe\nyNqY7DTfd/Q32ocNoSi3Jxb8MyDwhzGQaWEmp0oP5I0Op8iooQBRgL3SgGjgn0af\nvVm/+gprKdI8FoyGEMZIVLt4qM5LnDP4A3gQEO0PsHViFo6tt6wDd89ujOcxuTRH\nDdEPCs4JJ3NYrYBFMYtHRqu4oAWMjYVh2isv9KIJAQKBgQD5Fr6ertuqqGJ7n5en\nmdWJT18OVuNHfLQTD9fsHCeBMZ6V+nKsscdA0l8DeHUb22Q6PqXvA5AFH9Yh6L/k\nBMjZyp7hwGr5ojK54mW4H2VIwjnPVWIH9d+p0v+8vCY9G05IWTToQzClabbANpSF\nYX0Usdr6g8wPKPt/YLXRetgTfQKBgQD4jEg+zsRSlwqGmlg28hQ5UxB0lhIESW9k\nKYDslAwifDsGCMt+CdcR/8rgKbGG5TH8psO+HgofvAleVk+CThKVXKgElYHo/6Ds\n95dI2XobbpwQC96L0FSXNkkdHJ/r741OU/1oFKuxwI0BcUUDZLuQYt5+o+JiNksN\nb5P2sDDgGQKBgQDOjgfgesv6Bsw0C7Gs8CpdRQ5kS7UJMOX68KZzSx2PSuBhKmAx\nyPKcVFcp/5fNU+8XRaBARcoGFdJyKBoIMdeEkzuRpQiQnepGrvD+8DoDTdy2i+1R\nAJlKsIgVsEhdX+lYoXD4Mc+DO9iqKBidSqx4nswh9W0gHTIA/OeJIL9R2QKBgQCn\nTi63cJGAksF4F983pT5t0/cos3gPQKtlvfZVydZdREiq6DKqdc87A3c563bfudor\nGsp6aFgiQn3/7ZN5wDoMJqHG7CjVgXV+7a79T789RfhxaLv2W1cFrnoKyaDwvYDd\n7/WNIRTuAxInnWp6PU1whM0GbCTQPYHJ2oi8Lp/HyQKBgH/PcBn4UgfLhdlf4I/B\nBEEafLToFsSjj3+zGsGRMlfXxsS4E3wZgJRp2SjcepOuG318YqAOnK9APn8ig/89\nwWpxzVQJdhirakk1g8/4ERpanv58YJTEX2yCfR5jiqEL+hzpjUxN54aZ1jKUew0z\nBJrB/wMM6iTBvGUsrijjI7cA\n-----END PRIVATE KEY-----\n",
+  "client_email": "calculatorexchange@calculatorexchange.iam.gserviceaccount.com",
+  "client_id": "102611349358492397102",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calculatorexchange%40calculatorexchange.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
