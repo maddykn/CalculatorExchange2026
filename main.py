@@ -38,7 +38,7 @@ for d in records:
     d["Price"] = price
     print(d)
 
-st.title("Calculator Exchange")
+st.title("CIS Calculator Exchange")
 st.write("Please reach out to students who are looking to sell their calculators")
 st.write("Note, we don't recommend buying calculators previously purchased used unless you know for certain your student will not be here after Grade 10")
 
