@@ -40,7 +40,7 @@ for d in records:
 
 st.title("CIS Calculator Exchange")
 st.write("Please reach out to students who are looking to sell their calculators")
-st.write("Note, we don't recommend buying calculators previously purchased used unless you know for certain your student will not be here after Grade 10")
+st.write("Please ensure the calculators are not CAS calculators (this is will be displayed at the top of the calculator")
 
 col1, col2, col3, col4, col5 = st.columns([0.20, 0.30, 0.25, 0.10, 0.15])
 
