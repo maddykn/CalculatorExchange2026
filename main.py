@@ -62,6 +62,8 @@ You can verify this by checking that **"CAS" is not displayed at the top of the 
 **Charging cable:** +60 kr
 """)
 
+st.markdown("---")
+
 col1, col2, col3, col4, col5 = st.columns([0.20, 0.30, 0.25, 0.10, 0.15])
 
 with col1:
