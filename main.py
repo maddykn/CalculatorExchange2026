@@ -46,7 +46,7 @@ st.markdown("""
 Welcome to the CIS Calculator Exchange. Please reach out to students who are looking to sell their calculators.
 
 ### Important
-⚠️ Only **non-CAS calculators should be purchased.  
+⚠️ Only **non-CAS** calculators should be purchased.  
 You can verify this by checking that **"CAS" is not displayed at the top of the calculator**.
 
 ### Pricing Guidelines
