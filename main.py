@@ -38,10 +38,29 @@ for d in records:
     d["Price"] = price
     print(d)
 
-st.title("CIS Calculator Exchange")
-st.write("Please reach out to students who are looking to sell their calculators")
-st.write("Please ensure the calculators are not CAS calculators (this is will be displayed at the top of the calculator)")
-st.write("Note Pricing as Follows: 700kr (1-2 years old), 500kr (3-4 years old), 300kr (more than 4 years old) + 60kr for charging cable")
+import streamlit as st
+
+st.title("📱 CIS Calculator Exchange")
+
+st.markdown("""
+Welcome to the CIS Calculator Exchange.
+
+Please reach out to students who are looking to sell their calculators.
+
+### Important
+⚠️ Only **non-CAS calculators** may be sold.  
+You can verify this by checking that **"CAS" is not displayed at the top of the calculator**.
+
+### Pricing Guidelines
+
+| Calculator Age | Price |
+|---------------|--------|
+| 1–2 years old | 700 kr |
+| 3–4 years old | 500 kr |
+|  4+ years old | 300 kr |
+
+**Charging cable:** +60 kr
+""")
 
 col1, col2, col3, col4, col5 = st.columns([0.20, 0.30, 0.25, 0.10, 0.15])
 
