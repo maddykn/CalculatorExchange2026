@@ -9,8 +9,13 @@ SCOPES = [
     "https://www.googleapis.com/auth/drive"
 ]
 
-creds = Credentials.from_service_account_file(
-    "calculatorexchange-fc614e2b6cdb.json",
+#creds = Credentials.from_service_account_file(
+#    "calculatorexchange-fc614e2b6cdb.json",
+#    scopes=SCOPES
+#)
+
+creds = Credentials.from_service_account_info(
+    st.secrets["gcp_service_account"],
     scopes=SCOPES
 )
 
