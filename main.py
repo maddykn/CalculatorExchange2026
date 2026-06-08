@@ -64,31 +64,31 @@ col1, col2, col3, col4, col5 = st.columns([0.20, 0.30, 0.25, 0.10, 0.15])
 
 with col1:
     st.markdown(
-        "<p style='font-size:12px; font-weight:bold;'>Name of Student</p>",
+        "<p style='font-size:14px; font-weight:bold;'>Name of Student</p>",
         unsafe_allow_html=True
     )
 
 with col2:
     st.markdown(
-        "<p style='font-size:12px; font-weight:bold;'>Contact</p>",
+        "<p style='font-size:14px; font-weight:bold;'>Contact</p>",
         unsafe_allow_html=True
     )
 
 with col3:
     st.markdown(
-        "<p style='font-size:12px; font-weight:bold;'>Condition</p>",
+        "<p style='font-size:14px; font-weight:bold;'>Condition</p>",
         unsafe_allow_html=True
     )
 
 with col4:
     st.markdown(
-        "<p style='font-size:12px; font-weight:bold;'>Price</p>",
+        "<p style='font-size:14px; font-weight:bold;'>Price</p>",
         unsafe_allow_html=True
     )
 
 with col5:
     st.markdown(
-        "<p style='font-size:12px; font-weight:bold;'>Status</p>",
+        "<p style='font-size:14px; font-weight:bold;'>Status</p>",
         unsafe_allow_html=True
     )
 
