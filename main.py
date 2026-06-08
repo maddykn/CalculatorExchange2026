@@ -36,9 +36,7 @@ for d in records:
         price = price + 60
     
     d["Price"] = price
-    print(d)
-
-import streamlit as st
+    #print(d)
 
 st.title("📱 CIS Calculator Exchange")
 
@@ -96,6 +94,7 @@ with col5:
 
 for d in records:
     if d['Status'] == "Available":
+        col1, col2, col3, col4, col5 = st.columns([0.20, 0.30, 0.25, 0.10, 0.15])
         with col1:
             st.markdown(
                 f"<p style='font-size:14px;'>{d['Name']}</p>",
