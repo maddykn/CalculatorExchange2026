@@ -55,7 +55,7 @@ You can verify this by checking that **"CAS" is not displayed at the top of the 
 | 3–4 years old | 500 kr |
 |  4+ years old | 300 kr |
 
-**Charging cable:** +60 kr
+**Charging cable:** +60 kr   (Don't forget to ask for the charging cable if indicated by the pricing)
 """)
 
 st.markdown("---")
